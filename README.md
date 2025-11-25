@@ -34,7 +34,7 @@
 ## 🔄 System Flow — How It Works
 
 <p align="center">
-  <img src="/assets/flow_diagram.png" width="720" alt="Flow Diagram"/>
+  <img src="flowchart.png" width="720" alt="Flow Diagram"/>
 </p>
 
 ---
