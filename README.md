@@ -21,11 +21,11 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="/assets/project_main_photo.png" width="650" alt="Main Project Photo"/>
+  <img src="homepagee.png" width="900" alt="Main Project Photo"/>
 </p>
 
 <p align="center">
-  <img src="/assets/project_overview.png" width="420"/>
+ 
   <img src="/assets/project_dashboard.png" width="420"/>
 </p>
 
